@@ -1,0 +1,4 @@
+node_modules/
+
+# The Raycast dev tooling (the 'ray' CLI) adds this file automatically so we need to ignore it
+raycast-env.d.ts
